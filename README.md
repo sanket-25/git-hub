@@ -7,4 +7,4 @@
 
 
 
-![Uploading p05.png…]()
+![p05](https://github.com/sanket-25/git-hub/assets/49972214/eb01e971-4f96-411d-a997-c962b8383776)
